@@ -20,3 +20,10 @@ An end-to-end Data Engineering and Data Analytics project built in **Databricks*
 * **Peak Rush-Hour Demand:** Evening commuter demand peaks at **6:00 PM (Hour 18)** with **625,837 trips**, while early morning drops to **40,554 trips** at **4:00 AM**.
 * **Tipping Behavior:** **Credit Card** accounts for **7,369,802 trips** (~85.9% of rides) with an average tip of **26.14%**, compared to **1,056,915 Cash trips**.
 * **Top Routes:** The #1 busiest corridor is **Upper East Side South → Upper East Side North** (**67,336 trips**, averaging **1.04 miles** and **$15.52** total fare).
+* ## 📈 Visual Analytics
+### Peak Rush-Hour Demand
+![Peak Rush-Hour Demand](rush_hour_chart.png)
+
+### Average Tip Percentage by Payment Method
+![Tipping Behavior](tipping_chart.png)
+
